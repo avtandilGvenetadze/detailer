@@ -12,7 +12,7 @@ function Home(props) {
           </span>
         </p>
       </div>
-
+<p></p>
       <img
         className="blue-car"
         src={process.env.PUBLIC_URL + "/images/blue-car.jpg"}
